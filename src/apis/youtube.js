@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const KEY = 'AIzaSyBXAyimeyDQaq0xckMpjEG4NzYGJR_XTbg';
+const KEY = 'AIzaSyAMomfYJYS3TlL0HqNFNHxi9DqQBKlSL7Y';
 
 //AIzaSyBXAyimeyDQaq0xckMpjEG4NzYGJR_XTbg
 
